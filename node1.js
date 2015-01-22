@@ -11,6 +11,7 @@ exports = module.exports = (function () {
     timer.writeLn2 = writeLn;
     timer.writeLn3 = writeLn;
     timer.writeLn4 = writeLn;
+    timer.writeLn5 = writeLn;
 
     return timer;
 })();
