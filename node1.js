@@ -8,6 +8,7 @@ exports = module.exports = (function () {
     };
 
     timer.writeLn = writeLn;
+    timer.writeLn2 = writeLn;
 
     return timer;
 })();
