@@ -1,0 +1,27 @@
+{
+  "name": "node1",
+  "author": "PKF",
+  "description": "lol",
+  "homepage": "http://lol.com",
+  "version": "0.1.0",
+  "main": "node1.js",
+  "keywords": [
+  ],
+  "contributors": [
+    {
+      "name": "PKF",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnigantime/node1"
+  },
+  "engines": {
+    "node": ">= 0.8.x"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
